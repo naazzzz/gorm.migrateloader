@@ -1,4 +1,4 @@
-module github.com/naazzzz/gorm.migrateloader
+module github.com/naazzzz/gorm-migrateloader
 
 go 1.26.1
 
