@@ -1,8 +1,8 @@
 package cmd
 
 import (
+	"github.com/naazzzz/gorm.migrateloader/internal/generator"
 	"github.com/spf13/cobra"
-	"gorm.migrateloader/internal/generator"
 )
 
 var driver string

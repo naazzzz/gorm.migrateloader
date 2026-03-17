@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gorm.migrateloader/cmd"
+	"github.com/naazzzz/gorm.migrateloader/cmd"
 )
 
 func main() {
