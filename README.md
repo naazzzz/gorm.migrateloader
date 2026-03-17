@@ -45,3 +45,6 @@ Flags:
 
 Use "gorm-migrateloader [command] --help" for more information about a command.
 ```
+
+## [License](LICENSE)
+This project is licensed under the MIT.
