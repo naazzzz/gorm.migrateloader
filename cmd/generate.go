@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/naazzzz/gorm.migrateloader/internal/generator"
+	"github.com/naazzzz/gorm-migrateloader/internal/generator"
 	"github.com/spf13/cobra"
 )
 
