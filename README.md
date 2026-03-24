@@ -7,6 +7,8 @@ It is assumed that migrations will be located in the following directory:
 
 ## Installation
 
+Copy atlas.hcl for your PWD of project.
+
 ```sh
 go get github.com/naazzzz/gorm-migrateloader
 go install github.com/naazzzz/gorm-migrateloader
